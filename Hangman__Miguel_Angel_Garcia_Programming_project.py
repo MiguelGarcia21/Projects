@@ -1,4 +1,3 @@
-'''
 import random
 import os
 import ast
@@ -283,7 +282,7 @@ def start():
         return play()                       #O(1)
 
 start()
-'''
+
 
 #Run this prior to starting the exercise
 from random import randint as rnd
